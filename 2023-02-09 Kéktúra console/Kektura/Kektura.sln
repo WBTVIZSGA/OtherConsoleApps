@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kektura", "Kektura.csproj", "{D2E2D382-B760-49BB-9A23-08010E1B61F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E2D382-B760-49BB-9A23-08010E1B61F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E2D382-B760-49BB-9A23-08010E1B61F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E2D382-B760-49BB-9A23-08010E1B61F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E2D382-B760-49BB-9A23-08010E1B61F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34D8F4BE-64C2-4407-B3EB-12EDA91A87FE}
+	EndGlobalSection
+EndGlobal

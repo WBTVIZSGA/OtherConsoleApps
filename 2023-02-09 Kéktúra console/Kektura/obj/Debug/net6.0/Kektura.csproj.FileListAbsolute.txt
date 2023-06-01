@@ -1,0 +1,16 @@
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\bin\Debug\net6.0\Kektura.exe
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\bin\Debug\net6.0\kektura.csv
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\bin\Debug\net6.0\Kektura.deps.json
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\bin\Debug\net6.0\Kektura.runtimeconfig.json
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\bin\Debug\net6.0\Kektura.dll
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\bin\Debug\net6.0\Kektura.pdb
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\obj\Debug\net6.0\Kektura.csproj.AssemblyReference.cache
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\obj\Debug\net6.0\Kektura.GeneratedMSBuildEditorConfig.editorconfig
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\obj\Debug\net6.0\Kektura.AssemblyInfoInputs.cache
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\obj\Debug\net6.0\Kektura.AssemblyInfo.cs
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\obj\Debug\net6.0\Kektura.csproj.CoreCompileInputs.cache
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\obj\Debug\net6.0\Kektura.dll
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\obj\Debug\net6.0\refint\Kektura.dll
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\obj\Debug\net6.0\Kektura.pdb
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\obj\Debug\net6.0\Kektura.genruntimeconfig.cache
+T:\Bognár Pál\14A WPF & Angular\2023-02-09 Kéktúra console\Kektura\obj\Debug\net6.0\ref\Kektura.dll

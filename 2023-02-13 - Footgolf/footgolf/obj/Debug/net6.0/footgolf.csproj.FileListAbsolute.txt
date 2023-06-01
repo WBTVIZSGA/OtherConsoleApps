@@ -1,0 +1,32 @@
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\bin\Debug\net6.0\footgolf.exe
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\bin\Debug\net6.0\fob2016.txt
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\bin\Debug\net6.0\footgolf.deps.json
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\bin\Debug\net6.0\footgolf.runtimeconfig.json
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\bin\Debug\net6.0\footgolf.dll
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\bin\Debug\net6.0\footgolf.pdb
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\obj\Debug\net6.0\footgolf.csproj.AssemblyReference.cache
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\obj\Debug\net6.0\footgolf.GeneratedMSBuildEditorConfig.editorconfig
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\obj\Debug\net6.0\footgolf.AssemblyInfoInputs.cache
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\obj\Debug\net6.0\footgolf.AssemblyInfo.cs
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\obj\Debug\net6.0\footgolf.csproj.CoreCompileInputs.cache
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\obj\Debug\net6.0\footgolf.dll
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\obj\Debug\net6.0\refint\footgolf.dll
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\obj\Debug\net6.0\footgolf.pdb
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\obj\Debug\net6.0\footgolf.genruntimeconfig.cache
+T:\Bognár Pál\14A WPF & Angular\2023-02-13\footgolf\obj\Debug\net6.0\ref\footgolf.dll
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\bin\Debug\net6.0\footgolf.exe
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\bin\Debug\net6.0\fob2016.txt
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\bin\Debug\net6.0\footgolf.deps.json
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\bin\Debug\net6.0\footgolf.runtimeconfig.json
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\bin\Debug\net6.0\footgolf.dll
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\bin\Debug\net6.0\footgolf.pdb
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\obj\Debug\net6.0\footgolf.csproj.AssemblyReference.cache
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\obj\Debug\net6.0\footgolf.GeneratedMSBuildEditorConfig.editorconfig
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\obj\Debug\net6.0\footgolf.AssemblyInfoInputs.cache
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\obj\Debug\net6.0\footgolf.AssemblyInfo.cs
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\obj\Debug\net6.0\footgolf.csproj.CoreCompileInputs.cache
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\obj\Debug\net6.0\footgolf.dll
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\obj\Debug\net6.0\refint\footgolf.dll
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\obj\Debug\net6.0\footgolf.pdb
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\obj\Debug\net6.0\footgolf.genruntimeconfig.cache
+D:\VIZSGA\14A WPF & Angular\2023-02-13 - Footgolf\footgolf\obj\Debug\net6.0\ref\footgolf.dll

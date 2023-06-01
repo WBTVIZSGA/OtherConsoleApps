@@ -1,0 +1,16 @@
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\bin\Debug\net6.0\ultrabalaton.exe
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\bin\Debug\net6.0\ub2017egyeni.txt
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\bin\Debug\net6.0\ultrabalaton.deps.json
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\bin\Debug\net6.0\ultrabalaton.runtimeconfig.json
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\bin\Debug\net6.0\ultrabalaton.dll
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\bin\Debug\net6.0\ultrabalaton.pdb
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\obj\Debug\net6.0\ultrabalaton.csproj.AssemblyReference.cache
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\obj\Debug\net6.0\ultrabalaton.GeneratedMSBuildEditorConfig.editorconfig
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\obj\Debug\net6.0\ultrabalaton.AssemblyInfoInputs.cache
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\obj\Debug\net6.0\ultrabalaton.AssemblyInfo.cs
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\obj\Debug\net6.0\ultrabalaton.csproj.CoreCompileInputs.cache
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\obj\Debug\net6.0\ultrabalaton.dll
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\obj\Debug\net6.0\refint\ultrabalaton.dll
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\obj\Debug\net6.0\ultrabalaton.pdb
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\obj\Debug\net6.0\ultrabalaton.genruntimeconfig.cache
+T:\Bognár Pál\14A WPF & Angular\2023-02-13 ultrabalaton\ultrabalaton\obj\Debug\net6.0\ref\ultrabalaton.dll
